@@ -1,2 +1,5 @@
 # recursion_practice
-recursion_practice from CS2 at Kent State University
+C++ recursion_practice from CS2  
+
+Nathan Fleet  
+Kent State University
